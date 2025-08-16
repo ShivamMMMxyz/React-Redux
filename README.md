@@ -13,7 +13,7 @@ This project demonstrates the basics of Redux state management in a React applic
 ---
 
 ## 📂 Project Structure
-![Folder Structure](./assets/folders.jpg)
+![Folder Structure](./src/assets/folders.jpg)
 
 ## 📜 File Details
 
