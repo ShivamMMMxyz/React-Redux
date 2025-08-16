@@ -13,30 +13,7 @@ This project demonstrates the basics of Redux state management in a React applic
 ---
 
 ## 📂 Project Structure
-redux-counter-app/
-├── public/
-│ └── index.html # Main HTML file
-│
-├── src/
-│ ├── actions/
-│ │ └── index.js # Action creators (incNumber, decNumber)
-│ │
-│ ├── reducers/
-│ │ ├── index.js # Root reducer (combineReducers)
-│ │ └── upDown.js # Counter reducer (increment/decrement logic)
-│ │
-│ ├── store.js # Redux store configuration
-│ │
-│ ├── App.js # Main component with UI + dispatching actions
-│ ├── App.css # Styles for UI
-│ ├── index.js # Entry point, wraps App with Provider
-│ │
-│ └── ... (other CRA/Vite boilerplate files)
-│
-├── package.json # Dependencies and scripts
-└── README.md # Project documentation
-
----
+![Folder Structure](./assets/folders.jpg)
 
 ## 📜 File Details
 
