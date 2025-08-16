@@ -13,7 +13,6 @@ This project demonstrates the basics of Redux state management in a React applic
 ---
 
 ## 📂 Project Structure
-
 redux-counter-app/
 ├── public/
 │ └── index.html # Main HTML file
@@ -36,7 +35,6 @@ redux-counter-app/
 │
 ├── package.json # Dependencies and scripts
 └── README.md # Project documentation
-
 
 ---
 
